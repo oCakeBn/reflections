@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When init takes place git directory that stores metadata is created and its invisible.Initialisation is needed because of tracking files and being able to commit.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+
+Well,its different because its part of git repo,then it doesnt necessarily have all files in working directory.It offers time to think what is perfect time to make commit.
