@@ -16,3 +16,9 @@ Well using git add i can be sure what files will be in that commit,if i made mis
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 So when adding some logical change that i'm not sure will be implemented as i want,but looks promising maybe then.Branches would help me in a way that i would still have master branch but also that exp .
+
+
+
+How do the diagrams help you visualize the branch structure?
+They help in a way that i know where i left off the main branch,and what commits will be lost if i dont add them to branch
+
