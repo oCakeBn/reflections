@@ -22,3 +22,8 @@ So when adding some logical change that i'm not sure will be implemented as i wa
 How do the diagrams help you visualize the branch structure?
 They help in a way that i know where i left off the main branch,and what commits will be lost if i dont add them to branch
 
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Result of merging two branches together is one merged commit that has things from first and second branch combined.We represent it that way becuase its logical way of thinking.
