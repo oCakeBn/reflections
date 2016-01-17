@@ -22,4 +22,6 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 It would be harder to organise work,when and what will someone change and who will have rights to do that.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
 
+When i want to do pull request i would definitely want to make separate branch for that kind of work.Good thing about that is my master branch will never have some kind of conflict with github repo,and i can easily sort that out in side branch.
