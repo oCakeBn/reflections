@@ -11,3 +11,9 @@ It could create mess with stuff I'm currently working on.
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Fork is made between servers on github,clones are made on local machine either from github or from another git repo on local disk,branches are made inside git repo.It depends on actual thing I'm working on.
+
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+We dont need to resolve merge conflicts from remote repo and local repo.
