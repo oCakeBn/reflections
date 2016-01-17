@@ -6,3 +6,8 @@ Maybe when i want to share my work with somebody,or want to collaborate.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 It could create mess with stuff I'm currently working on.
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork is made between servers on github,clones are made on local machine either from github or from another git repo on local disk,branches are made inside git repo.It depends on actual thing I'm working on.
